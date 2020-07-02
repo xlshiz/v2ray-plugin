@@ -63,6 +63,14 @@ $upx v2ray-plugin_linux_mips* >/dev/null
 tar -zcf bin/v2ray-plugin-linux-mips-$VERSION.tar.gz v2ray-plugin_linux_mips*
 $sum bin/v2ray-plugin-linux-mips-$VERSION.tar.gz
 
+# MIPS64
+MIPS64S=(mips64 mips64le)
+for v in ${MIPS64S[@]}; do
+	env CGO_ENABLED=0 GOOS=linux GOARCH=$v go build -v -ldflags "$LDFLAGS" -gcflags "$GCFLAGS" -o v2ray-plugin_linux_$v
+done
+tar -zcf bin/v2ray-plugin-linux-mips64-$VERSION.tar.gz v2ray-plugin_linux_mips64*
+$sum bin/v2ray-plugin-linux-mips64-$VERSION.tar.gz
+
 # ppc64le
 env CGO_ENABLED=0 GOOS=linux GOARCH=ppc64le go build -v -ldflags "$LDFLAGS" -gcflags "$GCFLAGS" -o v2ray-plugin_linux_ppc64le
 $upx v2ray-plugin_linux_ppc64le >/dev/null
