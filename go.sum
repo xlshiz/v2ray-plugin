@@ -50,8 +50,8 @@ github.com/seiflotfy/cuckoofilter v0.0.0-20200511222245-56093a4d3841/go.mod h1:E
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.6.1 h1:hDPOHmpOpP40lSULcqw7IrRb/u7w6RpDC9399XyoNd0=
 github.com/stretchr/testify v1.6.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
-github.com/v2fly/v2ray-core v4.27.4+incompatible h1:7tiSJgnd82q+xsE67L8tHQDrQ/H1PqmWEd/HCs9CdXE=
-github.com/v2fly/v2ray-core v4.27.4+incompatible/go.mod h1:4FCZ8wHwyz+YsiBDUaaY5FuR9NFJS1fj1GXJ5rpXS4Q=
+github.com/v2fly/v2ray-core v4.27.5+incompatible h1:vj55CCOelFf1y+VTT/VdK6LQ0VTrceCIBJWxmXueDvU=
+github.com/v2fly/v2ray-core v4.27.5+incompatible/go.mod h1:4FCZ8wHwyz+YsiBDUaaY5FuR9NFJS1fj1GXJ5rpXS4Q=
 github.com/xiaokangwang/VSign v0.0.0-20200828155424-dc1c86b73fbf/go.mod h1:jTwBnzBuqZP3VX/Z65ErYb9zd4anQprSC7N38TmAp1E=
 go.starlark.net v0.0.0-20190919145610-979af19b165c h1:WR7X1xgXJlXhQBdorVc9Db3RhwG+J/kp6bLuMyJjfVw=
 go.starlark.net v0.0.0-20190919145610-979af19b165c/go.mod h1:c1/X6cHgvdXj6pUlmWKMkuqRnW4K8x2vwt6JAaaircg=
