@@ -2,7 +2,7 @@ module github.com/shadowsocks/v2ray-plugin
 
 require (
 	github.com/golang/protobuf v1.5.2
-	github.com/v2fly/v2ray-core/v4 v4.37.4-0.20210414020952-327cbdc5cd10
+	github.com/v2fly/v2ray-core/v4 v4.38.0
 )
 
 go 1.16
