@@ -152,6 +152,11 @@ func generateConfig() (*core.Config, error) {
 		return nil, newError("unsupported mode:", *mode)
 	}
 
+	// hack v2ray-core grpc protocolName
+	if *mode == "grpc" {
+		*mode = "gun"
+	}
+
 	streamConfig := internet.StreamConfig{
 		ProtocolName: *mode,
 		TransportSettings: []*internet.TransportConfig{{
