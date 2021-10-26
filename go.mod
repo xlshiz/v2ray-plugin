@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/golang/protobuf v1.5.2
-	github.com/v2fly/v2ray-core/v4 v4.42.2
+	github.com/v2fly/v2ray-core/v4 v4.43.0
 )
 
 require (
@@ -26,7 +26,7 @@ require (
 	golang.org/x/tools v0.1.1 // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013 // indirect
-	google.golang.org/grpc v1.40.0 // indirect
+	google.golang.org/grpc v1.41.0 // indirect
 	google.golang.org/protobuf v1.27.1 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 )
