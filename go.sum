@@ -350,8 +350,8 @@ github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848 h1:p1UzXK6VAutXFFQMnre
 github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848/go.mod h1:p80Bv154ZtrGpXMN15slDCqc9UGmfBuUzheDFBYaW/M=
 github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e h1:5QefA066A1tF8gHIiADmOVOV5LS43gt3ONnlEl3xkwI=
 github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e/go.mod h1:5t19P9LBIrNamL6AcMQOncg/r10y3Pc01AbHeMhwlpU=
-github.com/v2fly/v2ray-core/v5 v5.0.1 h1:wLjLcamiQRIr+xq3BCrkSqM61vZ4aODqf/Kh+Mj+L+I=
-github.com/v2fly/v2ray-core/v5 v5.0.1/go.mod h1:xDBKQCOx5ZPQ+TMBLjlEqb9kM7+A6l7HVrF2Ddc/F9E=
+github.com/v2fly/v2ray-core/v5 v5.0.2 h1:W63JgoEzbWNE+SMo8KI9O24uVhIpr4/Phm7H3h9rvvI=
+github.com/v2fly/v2ray-core/v5 v5.0.2/go.mod h1:xDBKQCOx5ZPQ+TMBLjlEqb9kM7+A6l7HVrF2Ddc/F9E=
 github.com/viant/assertly v0.4.8/go.mod h1:aGifi++jvCrUaklKEKT0BU95igDNaqkvz+49uaYMPRU=
 github.com/viant/toolbox v0.24.0/go.mod h1:OxMCG57V0PXuIP2HNQrtJf2CjqdmbrOx5EkMILuUhzM=
 github.com/xiang90/probing v0.0.0-20190116061207-43a291ad63a2/go.mod h1:UETIi67q53MR2AWcXfiuqkDkRtnGDLqkBTpCHuJHxtU=
