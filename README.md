@@ -29,7 +29,7 @@ On your client
 ss-local -c config.json -p 80 --plugin v2ray-plugin
 ```
 
-### Shadowsocks over websocket (HTTPS)
+### Shadowsocks over websocket with TLS (HTTPS)
 
 On your server
 
@@ -43,7 +43,7 @@ On your client
 ss-local -c config.json -p 443 --plugin v2ray-plugin --plugin-opts "tls;host=mydomain.me"
 ```
 
-### Shadowsocks over quic
+### Shadowsocks over QUIC
 
 On your server
 
