@@ -103,3 +103,9 @@ env CGO_ENABLED=0 GOOS=linux GOARCH=s390x go build -v -trimpath -ldflags "$LDFLA
 $upx v2ray-plugin_linux_s390x >/dev/null
 tar -zcf bin/v2ray-plugin-linux-s390x-$VERSION.tar.gz v2ray-plugin_linux_s390x
 $sum bin/v2ray-plugin-linux-s390x-$VERSION.tar.gz
+
+# riscv64
+env CGO_ENABLED=0 GOOS=linux GOARCH=riscv64 go build -v -trimpath -ldflags "$LDFLAGS" -o v2ray-plugin_linux_riscv64
+$upx v2ray-plugin_linux_riscv64 >/dev/null
+tar -zcf bin/v2ray-plugin-linux-riscv64-$VERSION.tar.gz v2ray-plugin_linux_riscv64
+$sum bin/v2ray-plugin-linux-riscv64-$VERSION.tar.gz
