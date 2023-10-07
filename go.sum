@@ -69,8 +69,8 @@ github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcU
 github.com/v2fly/BrowserBridge v0.0.0-20210430233438-0570fc1d7d08 h1:4Yh46CVE3k/lPq6hUbEdbB1u1anRBXLewm3k+L0iOMc=
 github.com/v2fly/VSign v0.0.0-20201108000810-e2adc24bf848 h1:p1UzXK6VAutXFFQMnre66h7g1BjRKUnLv0HfmmRoz7w=
 github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e h1:5QefA066A1tF8gHIiADmOVOV5LS43gt3ONnlEl3xkwI=
-github.com/v2fly/v2ray-core/v5 v5.7.1-0.20230924213917-99c9beac4e0c h1:aWdvtWhr/EZ+9MYqp8QQCo4WAYT6NH6dzdmHaGfDHvg=
-github.com/v2fly/v2ray-core/v5 v5.7.1-0.20230924213917-99c9beac4e0c/go.mod h1:RP7FjeYBAq0BtPYe0xKKbN+j3sz8mZ7Nj9qaeCEe/qA=
+github.com/v2fly/v2ray-core/v5 v5.8.0 h1:5gTlYw9eW53LA/kA45Oag2S9wQdPPQXPktQ6w603ImU=
+github.com/v2fly/v2ray-core/v5 v5.8.0/go.mod h1:RP7FjeYBAq0BtPYe0xKKbN+j3sz8mZ7Nj9qaeCEe/qA=
 github.com/xiaokangwang/VLite v0.0.0-20220418190619-cff95160a432 h1:I/ATawgO2RerCq9ACwL0wBB8xNXZdE3J+93MCEHReRs=
 github.com/xtaci/smux v1.5.24 h1:77emW9dtnOxxOQ5ltR+8BbsX1kzcOxQ5gB+aaV9hXOY=
 github.com/yuin/goldmark v1.3.5/go.mod h1:mwnBkeHKe2W/ZEtQ+71ViKU8L12m81fl3OWwC1Zlc8k=
