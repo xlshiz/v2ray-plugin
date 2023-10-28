@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/golang/protobuf v1.5.3
-	github.com/v2fly/v2ray-core/v5 v5.9.0
+	github.com/v2fly/v2ray-core/v5 v5.10.0
 	google.golang.org/protobuf v1.31.0
 )
 
@@ -16,7 +16,7 @@ require (
 	github.com/onsi/ginkgo/v2 v2.10.0 // indirect
 	github.com/pires/go-proxyproto v0.7.0 // indirect
 	github.com/quic-go/qtls-go1-20 v0.3.4 // indirect
-	github.com/quic-go/quic-go v0.39.0 // indirect
+	github.com/quic-go/quic-go v0.39.3 // indirect
 	go.uber.org/mock v0.3.0 // indirect
 	golang.org/x/crypto v0.14.0 // indirect
 	golang.org/x/exp v0.0.0-20230725093048-515e97ebf090 // indirect
